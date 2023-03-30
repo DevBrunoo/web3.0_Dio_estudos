@@ -1,0 +1,287 @@
+Um pouco sobre o curso: 
+
+Curso Web3.0
+
+As empresas vão precisar desse tipo de serviço, o real deixa de ser extremamente monopolizado 
+ e aparece os tokens, as empresas precisam desse serviço de token. 
+
+
+— Economia da propriedade 
+
+A propriedade e um dos maiores recursos da web3.0 aonde os usuários tem total propriedade sobre seu conteúdo. 
+
+Essa ideia esta por traz do grade ápice do Bitcoin. 
+
+Podemos dizer sobre a ideia de propriedade da seguinte maneira, pense em seu dinheiro que esta no banco seus queridos reias, são seus porem voce nao pode sacar no momento que quiser e mandar toda uma quantia de 50 mil para outra pessoa em outro pais, a ideia de propriedade esta em poder fazer isso. 
+
+Com confiança vem propriedade, ou seja como se trata de uma rede descentralizada não precisamos de intermediários (outras pessoas) decidindo o que pode e nao pode ser feito.
+
+ 
+￼
+
+A importancia da Web3
+
+Ela e importante porque esta construindo uma internet para as pessoas e removendo os intermediários. A democratização do acesso e a distribuição de poder e controle. 
+
+Dando ao criador mais poder sobre sua criação. 
+￼
+￼
+
+￼
+
+————————————
+Visão geral sobre Bloackchain
+
+
+A blockchain e um grande banco de dados com registros de todas as transações e coisas uteis, aonde o banco de dados fica pelo sevicio de diversos computadores que fazem parte dessa area.
+
+Sao diversos computadores ligado a uma rede fazendo que isso possa acontecer. 
+￼
+
+
+Um problema no blockchain e caso ocorra transações duplas nao e possível conseguir o estorno, pois e uma rede descentralizada. 
+
+Nodes sao computadores conectados a rede, quanto mais nodes mais descentralizada ela se torna
+
+Tipos 
+
+1. Full node: Esse e responsável por guarda todas as transações ja feita 
+2. Mining-node: Esse e responsável por agrupar transações para criar um block candidato 
+3. Light-node serve para guarda os dados que ja foram atualizada 
+4. Super-node: Tem a mesma funcao do Full-node porem e mais rapido 
+
+￼
+
+— Beneficios da tecnologia Blockchain 
+
+Economia de tempo: Nao precisa de terceiros para autorizar o que torna o processo mais rapido 
+
+Economia de custo: Uma rede blockchain reduz o cursto de diversas maneiras.
+
+Segurança mais rigida: ninguém pode alterar os dados da Blockchain, pois e compartilhado entre melhões. 
+
+
+—Blockcahin Ethereum 
+
+A blockchain do ethereum e mais do que dinheiro, e ai que vem o dinheiro inteligente.
+
+Ether e uma moeda que age dentro da rede, ou seja ela e usada em sua própria rede
+
+
+Smart Contract sao programa amazernados nessa rede blockchain e executados tambem. 
+
+
+Beneficios dessa rede sao.
+
+Grande rede existente testada e comprovada ao longo do tempo. Essa rede e aprovada e comprovada 
+
+Ampla gam de funções: cada vez mais surgi novos app para essa rede. Alem de poder ser usada como moeda pode tambem ser usada contratos inteligentes 
+
+Sim intermediarios ela permite P2P. A ethereum foi dada como a segunda geração das blockchains ela e responsável por a maiores dos app que estão sendo criados. 
+
+￼
+￼
+
+
+—Smart Contract 
+
+Smart Contract e um programa executado dentro da blockchain. 
+
+Isso e muito util pense doações aonde voce doa porem nao sabe se o dinheiro realmente esta sendo utilizado para isso. Com esses Smart Contract teria como solucionar esse problema ja que ele e pre configurado para isso.
+
+Podemos criar SmartCont para receber somente X quantia e dividir essa quantia com Y pessoas de forma automatica sem precisar de atorizacao de terceiros. 
+
+
+Teste exaustivamente o seu Smart Contact porque depois de ser construído nao ha como excluir ou voltar atras. 
+￼
+
+
+——Prova de trabalho:
+￼
+
+Isso meio que serve para incentivar e forca que os mineradores sejam honestos. Então na vale apenas ser desonesto pois e desperdiço de dinheiro e pode ser eliminado da rede. 
+
+
+
+￼
+
+￼
+
+
+Provas de participação gasta menos energia, porem eles tem que comprovar que estavam trabalhando. 
+
+￼
+
+Na prova de participação quando e descobrem que voce tentou fazer uma falcatrua voce perde tudo. 
+
+￼
+
+
+——Gas fee baseada no ethereum 
+
+Gass fee e um caixa utilizada para poder realizar transações. O preco desse gas e determinado pela oferta, demanda e capacidade dos computadores no momento, e ele e usado para poder pagar os validadores.
+
+
+E importante voce colocar quantidades maiores em seu blockchain para que de fato se ela for executada estou falando para o gas. Coloque a maior caso de voce sera reembolsado caso nao voce perdera tudo. 
+
+——Forks  
+
+
+￼
+
+Quando nao ha consenso entre ambas empresas do tipo 50 e 50 e criado as vezes forks da rede blockchain.  
+￼
+
+Um exemplo disso e o bitcoin e o bitcoin chash. 
+
+￼
+
+
+——Layers 
+
+Camadas surgindo para contorna o grande trilema das blockchains. 
+
+
+—-Rollups 
+
+Seria como pegar carona ja que transações podem ser feitas de forma mais rápida e barata. 
+
+A tipos de rollups do tipo.
+
+Rollup otimista que deixar as transações ser validadas de forma rápida sem checar muito elas.
+￼
+
+￼
+
+￼
+￼
+
+—Privacy coin 
+￼
+
+
+A blockchain e anônima e nao privada 
+
+Bitcoin e completamente rastreável, todas essas informações sao publicas. 
+￼
+
+As moedas anônimas mais famosas dessa e: 
+
+Dash, XMR, Zcash. 
+
+————Exploradores de bloco
+
+Esse sao uma coisa que voce consegue pesquisar e explorar tal bloco, através deles voce consegue ver diversas informações. Cada moeda tem o seu explorador. 
+
+—Tipos blockchain
+
+Cada tipo de block vai depender do seu projeto e de como ele deve ser construído e sua finalidade 
+
+Block publica, e transparente e aberta, nao ha restrições de entrada, descentralizada incentivo para participar a ganho de moedas
+
+Block privada, parecida com a block e descentralizada porem centralizada, e administrada por uma organização, nem todo mundo pode participar a uma escolha, pode ser executada por trás de um firewall corpora ou hospedada on-premises 
+
+Hirbrida e a junção das duas porem com certos requisitos, nao permite usuários anônimos.
+
+Podemos considerar Layer2 como uma alternativa a uma rede de blockchain principal como ethereum
+
+—————————
+
+Tookens Fungível
+
+
+Basicamente tokens sao ativos que operam em blockchain
+￼
+
+
+Tokens sao represetantes de valor que nao possui a sua própria blockchain, criptomoedas e oposto.
+
+Tokenizacao de ativos, e um mercado grande e vasto que pode ser explorado. 
+
+E de extrema importancia ter conhecimento em Token Economy caso queira entrar na blockchain, antes de fazer qualquer coisa pense no token economy 
+
+
+￼
+￼
+————
+
+CDC 
+￼
+
+
+—————
+ICO, IEO, IDO, IFO, IAO
+
+——————————————————
+Criando seu primeiro Token 
+
+Premeiro instalamos o metamask 
+
+Toda vez que voce adiciona uma rede e um RPC. 
+
+L2 = Segunda camada blockchain
+
+Voce pode criar um token pelo remix que e tipo um vscode online. E importante o quanto antes js começar a juntar as moedas de teste, ir acumulando
+
+
+SOULBOUND TOKENS SAO NFTS que nao podem ser vendidas, que sao únicas. 
+
+Para ver a raridade de um NFT pesquisar Rarity.Guide
+
+
+Poap’s 
+
+POAP seria praticamente uma prova de comparecimento, poaps sao vendíveis. 
+
+———————
+DAO 
+
+￼
+
+Existe a plataforma Dework aonde voce faz o. Trabalho e e pago por isso
+￼
+———————
+￼
+
+————————
+Metaverso basicamente e tentar transforma nossa realidade em algo digital. 
+
+Um processo em andamento e a interoperabilidade aonde conseguimos levar itens de blockchain para outra blockchain, basicamente de jogo para jogo 
+
+
+No meta nao praticamente as vezes tokens como lembrancinhas. 
+
+Top metaversos 
+
+Dencentralend criado por uma das 
+
+Jogo decentraled entrando no metatarso: https://play.decentraland.org/?realm=heimdallr&position=-102%2C129&island=peer-wc18qq8
+
+———————————Oportunidades
+
+
+Airdrops e tipo distribuir moedas como forma de marketing. Tome cuidado com isso porque as vezes podem ser moedas falsas para extrair a suas moedas, entre nos foros e etc.. normalmente que espalha isso e o projeto. 
+
+———Se torna developer Web3
+￼
+ 
+
+O solidity e a linguagem mais utilizada web3 
+
+IDE: e tipo vscode para blockchain, o remix e o mais utilizado. 
+￼
+
+
+Para amarelar mídias em blockchain se precisa do IPFS. 
+
+https://nft.storage/
+
+https://ipfs.tech/
+
+￼
+￼
+
+
+——
+Como criar uma DAO
+
