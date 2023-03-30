@@ -49,7 +49,7 @@ contract ApproveAndCallFallBack {
  
 //Actual token contract
  
-contract DIOToken is ERC20Interface, SafeMath {
+contract DevBrunoMario is ERC20Interface, SafeMath {
     string public symbol;
     string public  name;
     uint8 public decimals;
@@ -59,12 +59,12 @@ contract DIOToken is ERC20Interface, SafeMath {
     mapping(address => mapping(address => uint)) allowed;
  
     constructor() public {
-        symbol = "DIO";
-        name = "DIO Coin";
+        symbol = "BMB";
+        name = "BruMa Coin";
         decimals = 2;
-        _totalSupply = 100000;
-        balances[YOUR_METAMASK_WALLET_ADDRESS] = _totalSupply;
-        emit Transfer(address(0), YOUR_METAMASK_WALLET_ADDRESS, _totalSupply);
+        _totalSupply = 10000;
+        balances[0xcebafCCb737a63cEbDbD75aBC0d0175877c8E5d2] = _totalSupply;
+        emit Transfer(address(0), 0xcebafCCb737a63cEbDbD75aBC0d0175877c8E5d2, _totalSupply);
     }
  
     function totalSupply() public constant returns (uint) {
